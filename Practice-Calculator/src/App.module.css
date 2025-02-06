@@ -1,0 +1,7 @@
+.appContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* take up the full viewport height */
+}
